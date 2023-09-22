@@ -89,4 +89,4 @@ Thank you for your interest in **Digitomize**! Together, we can make a positive 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
