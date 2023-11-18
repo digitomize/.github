@@ -30,10 +30,9 @@
 ## Team
 
 Meet the dedicated team members behind Digitomize:
-
-- [Name of Team Member 1](#): [Role]
+<!-- - [Name of Team Member 1](#): [Role]
 - [Name of Team Member 2](#): [Role]
-- [Name of Team Member 3](#): [Role]
+- [Name of Team Member 3](#): [Role] -->
 
 ## About Us
 
